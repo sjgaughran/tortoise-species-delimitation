@@ -1,0 +1,12 @@
+## Example of an input assignment file. 
+# The first column lists individuals 
+# The second column lists populations.
+# This example does not include an outgroup.
+Indv  PopLabel
+Target_ESP02	A
+Target_ESP_08	A
+Target_ESP_01	A
+Target_PZ_03	B
+Target_PZ70	B
+Target_PZ_09	B
+Target_Chaco Z.outgroup
