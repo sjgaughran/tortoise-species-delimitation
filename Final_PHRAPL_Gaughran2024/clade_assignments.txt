@@ -1,0 +1,19 @@
+## Example of an input assignment file. 
+# The first column lists individuals 
+# The second column lists populations.
+# This example does not include an outgroup.
+Indv  PopLabel
+CF_09a	A
+CF_09b	A
+CF_03a	A
+CF_03b	A
+CF_06a	A
+CF_06b	A
+CRU_38a	B
+CRU_38b	B
+CRU_12a	B
+CRU_12b	B
+CRU_14a	B
+CRU_14b	B
+Chacoa	Z
+Chacob	Z
